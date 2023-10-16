@@ -1,0 +1,9 @@
+Weather API link:
+--------------------------
+
+https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
+
+Bootstrap template link:
+-----------------------------------
+
+https://getbootstrap.com/docs/5.3/examples/pricing/
